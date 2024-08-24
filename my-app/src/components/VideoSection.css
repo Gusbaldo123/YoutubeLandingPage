@@ -1,0 +1,110 @@
+.videoSection{
+  width: 85%;
+}
+
+.tagList{
+  width: 98%;
+  display: inline-block;
+  margin: 15px 0 25px 15px;
+}
+
+.tagVisibility{
+  display: inline-block;
+  overflow-inline: hidden;
+  max-width: 93%;
+  position: relative;
+  white-space: nowrap;
+}
+.tagList .tagVisibility::after{
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 25px;
+  height: 100%;
+  background: linear-gradient(to right, #27272700, #0F0F0F);
+}
+
+.tag{
+  display: inline;
+  margin: 0 5px 0 5px;
+  padding: 10px;
+  background-color: #272727;
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.tag:hover{
+  background-color: #343434;
+  transition: background-color 0.15s ease;
+}
+.tag.clicked{
+  background-color: white;
+  color:#272727;
+}
+.tagNext{
+  display: inline;
+  margin: 0;
+  padding: 5px;
+  background-color: #0F0F0F;
+  color: white;
+  border: 0;
+  border-radius: 25px;
+  font-weight: bold;
+  fill: white;
+}
+.tagNext:hover{
+  background-color: #343434;
+  color:#272727;
+}
+
+.videoList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); /* Ajusta automaticamente o número de colunas */
+  gap: 16px; /* Espaço entre os vídeos */
+}
+
+.video {
+  width: 100%; /* O vídeo ocupa toda a largura da célula da grid */
+  margin: 0; /* Remove margens para eliminar gaps */
+  border-radius: 18px;
+  background-color: transparent;
+  transition: background-color 0.35s ease;
+}
+
+.video .imgThumb {
+  width: 100%; /* A imagem ocupa toda a largura do vídeo */
+  border-radius: 18px;
+}
+
+.video .imgChannel{
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
+}
+.video.clicked {
+  background-color: rgba(255, 255, 255, 0.17);
+}
+
+.videoContent{
+  width: 85%;
+  display: flex;
+  margin-top: 5px;
+}
+.videoDescription {
+  padding: 4px 10px 0px 10px;
+}
+.videoDescription h3{
+  margin: 0 0 5px 0;
+  color:white;
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.videoDescription p{
+  color: gray;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

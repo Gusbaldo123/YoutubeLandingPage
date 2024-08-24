@@ -1,0 +1,76 @@
+.sideMinimalBar {
+  min-width:fit-content;
+  max-width: 64px;
+  width: 5%;
+  display: block;
+  box-sizing: border-box;
+}
+
+.sideMinimalBar .sideMinimalBarButton {
+  width: 90%;
+  height: 64px;
+  align-items: center;
+  margin: 5px 5%;
+  display: flex;
+  padding: 5px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  background-color: transparent;
+  border: 0;
+}
+
+.sideMinimalBar .sideMinimalBarButton:hover {
+  background-color: #272727;
+}
+
+.sideMinimalBar .sideMinimalBarButton img {
+  width: 56px;
+  height: 56px;
+}
+
+.sideBar {
+  width: 15%;
+  display: block;
+  box-sizing: border-box;
+}
+
+.sideBar .sideBarButton {
+  width: 90%;
+  height: 40px;
+  align-items: center;
+  margin: 3px 5%;
+  display: flex;
+  padding: 5px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  background-color: transparent;
+  border: 0;
+}
+
+.sideBar .sideBarButton:hover {
+  background-color: #272727;
+}
+
+.sideBar .sideBarButton img {
+  width: 24px;
+  height: 24px;
+}
+
+.sideBar .sideBarButton p {
+  color: white;
+  margin-left: 25px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+.sideBar hr{
+  margin: 0 15px;
+}
+.sideBar p{
+  margin: 15px;
+  color: #6c6c6c;
+}

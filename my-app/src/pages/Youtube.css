@@ -1,0 +1,19 @@
+body{
+  background-color: #0F0F0F;
+  font-family: sans-serif;
+}
+
+h1{color: white;}
+
+*
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.pageBody
+{
+  display: flex;
+  justify-content: space-between;
+}

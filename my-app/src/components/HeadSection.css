@@ -1,0 +1,78 @@
+
+
+.headBox {
+  display: flex;
+  align-items: center;
+}
+
+.headBox .toggleSidebarButton {
+  height: 40px;
+  border-radius: 20px;
+  background-color: #0F0F0F;
+  border: 0;
+  margin: 0 10px 0 10px;
+}
+.headBox .toggleSidebarButton:hover {
+  background-color: #272727;
+}
+
+.headBox .toggleSidebarButton svg {
+  height: 24px; /* Define a altura do ícone SVG */
+  width: 24px; /* Define a largura do ícone SVG */
+  color: white;
+  margin: 0 7px 0 7px;
+}
+
+.headBox .logoButton {
+  background-color: transparent;
+  border: 0;
+  display: flex;
+  align-items: center; /* Garante que o conteúdo do botão também seja centralizado */
+}
+
+.headBox .logoButton img {
+  width: 100px;
+  height: auto;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  margin: 0 auto; /* Centraliza a div */
+  width: 50%; /* Ajuste a largura conforme necessário */
+  border-radius: 25px;
+  height: 40px; /* Define a altura da barra de pesquisa */
+}
+
+.searchBarInput {
+  border-radius: 17px 0 0 17px;
+  width: 70%; /* Ajuste a largura conforme necessário */
+  height: 100%; /* Ajusta a altura para preencher o contêiner */
+  border: 1px solid #272727; /* Adiciona uma borda para visualização */
+  padding: 0 10px; /* Espaçamento interno do campo de texto */
+  box-sizing: border-box; /* Inclui o padding e borda na largura */
+  background-color: #121212;
+  color: white;
+  font-size:medium;
+}
+
+.searchBarButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 17px 17px 0;
+  height: 100%; /* Ajusta a altura para preencher o contêiner */
+  background-color: #272727;
+  border: 1px solid #272727; /* Borda do botão */
+  padding: 0 15px; /* Espaçamento interno do botão */
+  box-sizing: border-box; /* Inclui o padding e borda na largura */
+  cursor: pointer; /* Indica que é um botão clicável */
+}
+
+.searchBarButton svg {
+  height: 24px; /* Define a altura do ícone SVG */
+  width: 24px; /* Define a largura do ícone SVG */
+  color: white;
+  margin: 0 7px 0 7px;
+}

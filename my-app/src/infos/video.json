@@ -1,0 +1,92 @@
+{
+  "navBar":[
+    {
+      "icon":"/imgIcon.ico",
+      "text":"Projeto Youtube",
+      "link":"#"
+    },
+    {
+      "icon":"https://cdn.icon-icons.com/icons2/1572/PNG/512/3592861-bag-briefcase-business-bag-documents-bag-general-office-portfolio_107789.png",
+      "text":"Portfolio",
+      "link":"https://www.gusbaldo.com"
+    },
+    {
+      "icon":"https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+      "text":"Github",
+      "link":"https://github.com/Gusbaldo123"
+    },
+    {
+      "icon":"https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png",
+      "text":"LinkedIn",
+      "link":"https://www.linkedin.com/in/gustavorbpereira/"
+    }
+  ],
+  "videos":[
+    {
+      "thumb":"https://i.ytimg.com/vi/vn1S7EMK_2w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO7NIAXkhcbwOW9gHY_oPqEYFaOQ",
+      "title":"Anakin Is A Genious",
+      "icon":"https://yt3.ggpht.com/bkvaR-VQEEQoW8QFtn6TYRBe2OyXq7RDeZ1gzzkOQTBcc8t93WtiW2WfHpS4I_3DcwETHZJ6=s68-c-k-c0x00ffffff-no-rj",
+      "channelName":"Alfox",
+      "views":"346 mil visualizações",
+      "date":"há 1 mês",
+      "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "thumb":"https://img.youtube.com/vi/b-yWl6aVqoA/maxresdefault.jpg",
+      "title":"pov: your gigachad player makes D&D fun for you",
+      "icon":"https://yt3.ggpht.com/ytc/AIdro_moyaq1sKjhxyscx-C0GdEot1hcxyFSOKlcdd12MQ=s68-c-k-c0x00ffffff-no-rj",
+      "channelName":"XP to Level 3",
+      "views":"672 mil visualizações",
+      "date":"há 1 ano",
+      "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "thumb":"https://img.youtube.com/vi/-Ctd2vxRK3c/maxresdefault.jpg",
+      "title":"Building Clickbait Thumbnails with no Mods",
+      "icon":"https://yt3.ggpht.com/ytc/AIdro_nWUOAqRH721eaKn0e8ePabkuHkaPxg0f5OCJx2=s68-c-k-c0x00ffffff-no-rj",
+      "channelName":"avogaado",
+      "views":"302 mil visualizações",
+      "date":"há 1 mês",
+      "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "thumb":"https://img.youtube.com/vi/omlxMBcPyIU/maxresdefault.jpg",
+      "title":"The Director",
+      "icon":"https://yt3.ggpht.com/yXblQeZLv40uZiCTEzpYbG8wTQLU2lI2euGUExDibdrkC0SSF7hF0UIfr0okc2CctGPIjHqNBg=s68-c-k-c0x00ffffff-",
+      "channelName":"TJB",
+      "views":"97 mil visualizações",
+      "date":"há 3 dias",
+      "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "thumb":"https://img.youtube.com/vi/7GBKKTsLwMQ/maxresdefault.jpg",
+      "title":"Miniatura de RPG | Arte & Criatividade | #rpgdemesa #rpgbrasil #miniaturas",
+      "icon":"https://yt3.ggpht.com/ytc/AIdro_nCkBmnJUq7962uCrI2HYw-cjVdB1YEuZjuob75FR194w=s68-c-k-c0x00ffffff-no-rj",
+      "channelName":"O Fabulário",
+      "views":"1 mil visualizações",
+      "date":"há 13 dias",
+      "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "thumb":"https://img.youtube.com/vi/3Q11S4y-Mdk/maxresdefault.jpg",
+      "title":"Blender - Fluid Simulation",
+      "icon":"https://yt3.ggpht.com/ytc/AIdro_l5jzheYR3XhluuuqQqa-Mzy6LFFR9yv5pfogBhjJkRvg=s68-c-k-c0x00ffffff-no-rj",
+      "channelName":"Pavel Blend",
+      "views":"10 mi visualizações",
+      "date":"há 4 anos",
+      "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "thumb":"https://img.youtube.com/vi/SvoQvg8kmzQ/maxresdefault.jpg",
+      "title":"How To Turn Minecraft Into The Ultimate Exploration Game",
+      "icon":"https://yt3.ggpht.com/ytc/AIdro_mNgs-YI1HuO_8ZrIQAzTz_sYzDC-X2RlxQcXgHeRQfNnA=s68-c-k-c0x00ffffff-no-rj",
+      "channelName":"AsianHalfSquat",
+      "views":"3 mi visualizações",
+      "date":"há 2 anos",
+      "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ],
+  "tags":[
+    "Tudo","Jogos","Música","Dungeons & Dragons","Minecraft Modding", "Mixes", "Mod", "Cálculo", "Ciência da Computação", "RPG", "Animação", "Jogos de Quebra-Cabeça","Outros"
+  ]
+}
